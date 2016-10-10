@@ -15,3 +15,5 @@ e. Divide two mixed fractions and store the quotient in reduced form.
 f. Print a mixed fraction.
 
 g. Change a fraction to its reciprocal. For example, the reciprocal of the fraction 3 5/8 is 8/29. The reciprocal of 4/19 is 4 3/4. 
+
+Your main should instantiate two mixed fractions and call each of the class methods. The two mixed fractions should be printed along with the sum, difference, product, quotient, and after being changed to its reciprocal. Please do not overload the operators for this program. 
