@@ -17,3 +17,17 @@ f. Print a mixed fraction.
 g. Change a fraction to its reciprocal. For example, the reciprocal of the fraction 3 5/8 is 8/29. The reciprocal of 4/19 is 4 3/4. 
 
 Your main should instantiate two mixed fractions and call each of the class methods. The two mixed fractions should be printed along with the sum, difference, product, quotient, and after being changed to its reciprocal. Please do not overload the operators for this program. 
+
+four methods you are going to write:
+-decalring private data memebers
+-prototypes
+-methods
+-main
+-default arguments
+
+four methods
+-----------------
+1. constructor with default arguments which set name to " "  and 4 floats to 0.0
+2. destrcutor to print name being destroyed
+3. print method
+4. calcBonus method, recaculate the needed data members
